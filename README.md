@@ -1,6 +1,8 @@
 # PkSentencer on ReactPy (`pksentencer-reactpy`)
 A website that will help you to re-examine your sentence for a Python code, when you execute it, you will get the same sentence you entered
 
+![how it works](https://i.imgur.com/hlOsSfx.gif)
+
 ## Launch the site
 1) Run
 ```bash
