@@ -1,0 +1,5 @@
+reactpy[flask]~=1.0.2
+pymongo==4.4.1
+requests~=2.31.0
+whitenoise
+python-dotenv
